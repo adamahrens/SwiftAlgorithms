@@ -3,5 +3,6 @@
     <pages>
         <page name='LinearSearch'/>
         <page name='BinarySearch'/>
+        <page name='Sorts'/>
     </pages>
 </playground>
