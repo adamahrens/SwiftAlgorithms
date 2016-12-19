@@ -4,5 +4,6 @@
         <page name='LinearSearch'/>
         <page name='BinarySearch'/>
         <page name='Sorts'/>
+        <page name='LinkedLists'/>
     </pages>
 </playground>
